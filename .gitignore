@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+environment_boltzmann_machines/
 *.py[cod]
 *$py.class
 
